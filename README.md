@@ -1,5 +1,5 @@
 # SpaceSolutions game
-Jogo inspirado no jogo River Raid feito em js
+Jogo inspirado no jogo River Raid feito em js para a disciplina de TECWEB, Engenharia de Computação, UFC Sobral.
 
 Alex de Sousa ramos-428359
 
