@@ -13,3 +13,6 @@ Passagem a direita
 <img src="https://user-images.githubusercontent.com/43723528/205444255-55e9e4d4-6b64-4fc6-96d0-5100deb4cbe7.png"/>
 Bifurcação
 <img src="https://user-images.githubusercontent.com/43723528/205444362-a1c085b3-1965-45e7-940c-ca313c4c2e39.png"/>
+# Telas de inicio e game over
+<img src="https://user-images.githubusercontent.com/43723528/205444714-54234ce0-c7e8-41d8-80e1-d702df291166.png"/>
+<img src="https://user-images.githubusercontent.com/43723528/205444784-2d0808e6-76b3-42bd-8a4f-c11d4b0b7c09.png"/>
